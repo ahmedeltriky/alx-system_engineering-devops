@@ -13,3 +13,6 @@ ls -la . ..: lists files in the current firectory and its parent
 file: shows the type of a file
 ln -s Target linkname: to create a symbolic link
 cp -u *.html path: copies all html files and updates the target file
+mv [[:upper:]] moves all files starting with an uppercase letter
+rm *~ removes all files ending with ~
+mkdir -p welcome/to/school

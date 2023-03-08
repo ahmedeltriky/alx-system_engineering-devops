@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mapvr --group-directories-first
+ls --group-directories-first -vmap
